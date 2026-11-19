@@ -1,2 +1,4 @@
 # UHI-Impacts-on-Low-Income-and-Marginalized-Communities
 Examining seasonal variations in meteorological conditions across Baltimore and exploring the energy implications.
+Currently, the main dataset used comes from the Baltimore Social Environmental Collaborative and the hourly meteorological conditions for the years 2023-2025 which each have their own folder. This data covers seventy-six weather station sites across Baltimore County.
+The Python Scripts folder contains preliminary scripts for the analysis. "Seasonal Variation of Metrics" shows how the seasonal variations in the meteorological conditions are found as well as how extreme urban, urban, and rural stations were classified. "Station Reorganization" reorganizes the data  so that each station has its own CSV for the different meteorological conditions. 
